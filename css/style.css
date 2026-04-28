@@ -16,3 +16,22 @@
     li {
       margin-bottom: 5px;
     }
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 60px;
+    }
+
+    input,
+    button {
+      padding: 8px;
+      margin: 5px 0;
+    }
+
+    ul {
+      margin-top: 20px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
